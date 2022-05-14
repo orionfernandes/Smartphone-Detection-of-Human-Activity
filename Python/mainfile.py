@@ -7,7 +7,7 @@ import numpy as np
 import pickle
 
 from pathlib import Path
-from model_0 import model
+import model
 
 
 print("Running...")
